@@ -1,0 +1,28 @@
+2026-06-26 12:37:53,297 - INFO - Creating directory; .github\workflows for the file: .gitkeep
+2026-06-26 12:37:53,299 - INFO - Creating empty file: .github\workflows\.gitkeep
+2026-06-26 12:37:53,301 - INFO - Creating directory; src\cnnClassifier for the file: __init__.py
+2026-06-26 12:37:53,302 - INFO - Creating empty file: src\cnnClassifier\__init__.py
+2026-06-26 12:37:53,302 - INFO - Creating directory; src\cnnClassifier\components for the file: __init__.py
+2026-06-26 12:37:53,303 - INFO - Creating empty file: src\cnnClassifier\components\__init__.py
+2026-06-26 12:37:53,304 - INFO - Creating directory; src\cnnClassifier\utils for the file: __init__.py
+2026-06-26 12:37:53,305 - INFO - Creating empty file: src\cnnClassifier\utils\__init__.py
+2026-06-26 12:37:53,306 - INFO - Creating directory; src\cnnClassifier\config for the file: __init__.py
+2026-06-26 12:37:53,307 - INFO - Creating empty file: src\cnnClassifier\config\__init__.py
+2026-06-26 12:37:53,308 - INFO - Creating directory; src\cnnClassifier\config for the file: configuration.py
+2026-06-26 12:37:53,309 - INFO - Creating empty file: src\cnnClassifier\config\configuration.py
+2026-06-26 12:37:53,310 - INFO - Creating directory; src\cnnClassifier\pipeline for the file: __init__.py
+2026-06-26 12:37:53,311 - INFO - Creating empty file: src\cnnClassifier\pipeline\__init__.py
+2026-06-26 12:37:53,312 - INFO - Creating directory; src\cnnClassifier\entity for the file: __init__.py
+2026-06-26 12:37:53,312 - INFO - Creating empty file: src\cnnClassifier\entity\__init__.py
+2026-06-26 12:37:53,313 - INFO - Creating directory; src\cnnClassifier\constants for the file: __init__.py
+2026-06-26 12:37:53,313 - INFO - Creating empty file: src\cnnClassifier\constants\__init__.py
+2026-06-26 12:37:53,315 - INFO - Creating directory; config for the file: config.yaml
+2026-06-26 12:37:53,315 - INFO - Creating empty file: config\config.yaml
+2026-06-26 12:37:53,317 - INFO - Creating empty file: dvc.yaml
+2026-06-26 12:37:53,317 - INFO - Creating empty file: params.yaml
+2026-06-26 12:37:53,319 - INFO - Creating empty file: requirements.txt
+2026-06-26 12:37:53,320 - INFO - Creating empty file: setup.py
+2026-06-26 12:37:53,321 - INFO - Creating directory; research for the file: trials.ipynb
+2026-06-26 12:37:53,321 - INFO - Creating empty file: research\trials.ipynb
+2026-06-26 12:37:53,322 - INFO - Creating directory; templates for the file: index.html
+2026-06-26 12:37:53,324 - INFO - Creating empty file: templates\index.html
