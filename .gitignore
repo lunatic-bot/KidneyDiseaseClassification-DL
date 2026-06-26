@@ -1,2 +1,4 @@
 .env
 .venv
+src/cnnClassifier/__pycache__
+logs
