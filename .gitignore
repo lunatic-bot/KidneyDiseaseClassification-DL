@@ -2,3 +2,4 @@
 .venv
 src/cnnClassifier/__pycache__
 logs
+research/CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone

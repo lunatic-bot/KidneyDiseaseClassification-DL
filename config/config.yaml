@@ -2,6 +2,5 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://github.com/lunaticbot/KidneyDiseaseClassification-DL.git
-  local_data_file: artifacts/data_ingestion/kidney.csv
+  source_URL:
   unzip_dir: artifacts/unzip
