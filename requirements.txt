@@ -9,6 +9,7 @@ seaborn
 python-box==6.0.2
 pyYAML
 tqdm
+box
 ensure==1.0.2
 joblib
 types-pyYAML
@@ -16,4 +17,5 @@ scipy
 fastapi
 uvicorn
 gdown
+ensure
 -e .
